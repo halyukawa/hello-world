@@ -1,2 +1,5 @@
 # hello-world
-Just try first repository
+
+Hello,
+
+I'm HAL from 2001.
